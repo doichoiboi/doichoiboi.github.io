@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.doichoiboi.moyo",
+    "sha256_cert_fingerprints": [
+      "2D:DA:C2:2B:27:5F:E3:AC:01:BE:C2:94:65:8B:52:E0:E9:21:BF:B2:8E:7C:5F:09:9F:CF:8E:78:DF:3D:F4:3A"
+    ]
+  }
+}]
